@@ -9,11 +9,11 @@ version: 1
 # Fork this repository and head to https://aggr.io/@[username] to see your aggregation.
 # Then feel free to edit it as you see fit.
 
-# YouTube
+# YouTube channels
 - https://www.youtube.com/c/TomScottGo
 
-# Twitter
+# Twitter accounts
 - https://twitter.com/kelseyhightower
 
-# You can be more specific and directly provide an RSS or Atom feed
+# RSS or Atom feeds
 - https://blog.codinghorror.com/rss
