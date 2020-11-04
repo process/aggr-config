@@ -2,4 +2,15 @@
 version: 1
 ---
 
+# This file is a demonstration of the possibilities Aggr offers.
+# The only mandatory field of the header is `version`. At the moment it has to be set to `1`.
+# The top structure of this file is a list of all the sources you want to subscribe to.
+
+# YouTube
 - https://www.youtube.com/c/TomScottGo
+
+# Twitter
+- https://twitter.com/kelseyhightower
+
+# You can be more specific and directly provide an RSS or Atom feed
+- https://blog.codinghorror.com/rss
