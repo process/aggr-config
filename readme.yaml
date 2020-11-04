@@ -6,7 +6,8 @@ version: 1
 # The only mandatory field of the header is `version`. At the moment it has to be set to `1`.
 # The top structure of this file is a list of all the sources you want to subscribe to.
 #
-# Fork this file and head to https://aggr.io/@[username] to see your aggregation.
+# Fork this repository and head to https://aggr.io/@[username] to see your aggregation.
+# Then feel free to edit it as you see fit.
 
 # YouTube
 - https://www.youtube.com/c/TomScottGo
