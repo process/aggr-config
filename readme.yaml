@@ -5,10 +5,11 @@ version: 1
 # Fork this repository and edit as you see fit.
 # Then, head to https://aggr.io/@[username] to see your aggregation.
 
-# This file is a demonstration of the possibilities Aggr offers.
+# This file is a demonstration of the possibilities Aggr offers and is actually being rendered.
+# Head to https://aggr.io/@aggr-io to see the actual result.
+
 # The only mandatory field of the header is `version`. For now the only supported version is `1`.
 # The top structure of this file is a list of strings representing all the sources you want to subscribe to.
-
 # The sources can be:
 
 # 1) Arbitrary websites, in which case an RSS/Atom feed is being looked for:
