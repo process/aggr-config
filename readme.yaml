@@ -2,15 +2,20 @@
 version: 1
 ---
 
-# This file is a demonstration of the possibilities Aggr offers.
-# The only mandatory field of the header is `version`. At the moment it has to be set to `1`.
-# The top structure of this file is a list of all the sources you want to subscribe to.
+# Fork this repository and then feel free to edit as you see fit.
+# Then, head to https://aggr.io/@[username] to see your aggregation.
 
-# Fork this repository and head to https://aggr.io/@[username] to see your aggregation.
-# Then feel free to edit it as you see fit.
+# This file is a demonstration of the possibilities Aggr offers.
+# The only mandatory field of the header is `version`. For now the only supported version is `1`.
+# The top structure of this file is a list of strings representing all the sources you want to subscribe to.
+
+# It can be:
+
+# arbitrary websites, in which case an RSS/Atom feed is being looked for:
+- https://blog.codinghorror.com
 
 # YouTube channels
 - https://www.youtube.com/c/TomScottGo
 
-# RSS or Atom feeds
-- https://blog.codinghorror.com/rss
+# specific RSS/ATOM feeds if you want to bypass the automatic discovery
+- https://martinfowler.com/feed.atom
