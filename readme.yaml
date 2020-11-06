@@ -13,6 +13,9 @@ version: 1
 
 # 1) Arbitrary websites, in which case an RSS/Atom feed is being looked for:
 - https://blog.codinghorror.com
+- https://github.com/aggr-io/aggr-config
+- https://github.com/aggr-io/docs
+- https://github.com/aggr-io/feedbacks
 
 # 2) YouTube channels
 - https://www.youtube.com/c/TomScottGo
