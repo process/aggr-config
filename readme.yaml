@@ -12,13 +12,12 @@ version: 1
 # The sources can be:
 
 # 1) Arbitrary websites, in which case an RSS/Atom feed is being looked for:
-- https://blog.codinghorror.com
 - https://github.com/aggr-io/aggr-config
 - https://github.com/aggr-io/docs
 - https://github.com/aggr-io/feedbacks
 
 # 2) YouTube channels
-- https://www.youtube.com/c/TomScottGo
+# - https://www.youtube.com/c/TomScottGo
 
 # 3) Specific RSS/ATOM feeds if you want to bypass the automatic discovery
-- https://martinfowler.com/feed.atom
+# - https://martinfowler.com/feed.atom
