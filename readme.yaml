@@ -2,18 +2,19 @@
 version: 1
 ---
 
-# Fork this repository and edit as you see fit.
+# Fork this repository and edit it as you see fit.
 # Then, head to https://aggr.io/@[username] to see your aggregation.
 
-# This file is a demonstration of the possibilities Aggr offers and is actually being rendered.
-# Head to https://aggr.io/@aggr-io to see the actual result.
+# This file demonstrates the possibilities Aggr offers.
+# It is actually being rendered at https://aggr.io/@aggr-io
 
-# The only mandatory field of the header is `version`. For now the only supported version is `1`.
 # The top structure of this file is a list of strings representing all the sources you want to subscribe to.
 # The sources can be:
 
 # 1) Arbitrary websites, in which case an RSS/Atom feed is being looked for:
-- https://github.com/aggr-io/docs
+- https://github.com/aggr-io/aggr-config
 
 # 2) Specific RSS/ATOM feeds if you want to bypass the automatic discovery
-- https://github.com/aggr-io/feedbacks/commits/main.atom
+- https://github.com/aggr-io/docs/commits/main.atom
+
+# Have a look to https://github.com/aymericbeaumet/aggr-config for a down to earth example.
