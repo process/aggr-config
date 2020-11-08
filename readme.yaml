@@ -14,7 +14,7 @@ version: 1
 # 1) Arbitrary websites, in which case an RSS/Atom feed is being looked for:
 - https://github.com/aggr-io/aggr-config
 
-# 2) Specific RSS/ATOM feeds if you want to bypass the automatic discovery
+# 2) Specific RSS/ATOM feeds, in which case the automatic discovery is bypassed:
 - https://github.com/aggr-io/docs/commits/main.atom
 
 # Have a look to https://github.com/aymericbeaumet/aggr-config for a down to earth example.
