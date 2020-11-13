@@ -3,10 +3,10 @@ version: 1
 ---
 
 # Fork this repository and edit it as you see fit.
-# Then, head to https://aggr.io/@[username] to see your aggregation.
+# Then, head to https://aggr.md/@[username] to see your aggregation.
 
 # This file demonstrates the possibilities Aggr offers.
-# It is actually being rendered at https://aggr.io/@aggr-io
+# It is actually being rendered at https://aggr.md/@aggr
 
 # The top structure of this file is a list of strings representing all the sources you want to subscribe to.
 # The sources can be:
