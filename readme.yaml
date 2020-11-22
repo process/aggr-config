@@ -4,11 +4,12 @@ version: 1
 
 # You are currently looking at an Aggr configuration file.
 # To learn more about Aggr, visit: https://aggr.md
+# To start using Aggr, fork this repository and head to https://aggr.md/@[handle]
 
-# Aggr is able to do RSS/Atom feeds discovery:
+# Aggr is able to do automatic feeds discovery:
 - https://www.ted.com
 - https://www.youtube.com/user/GoogleTechTalks
 
-# Aggr also support RSS/Atom feeds URLs:
+# Aggr also support direct feeds URLs:
 - https://martinfowler.com/feed.atom
 - https://xkcd.com/atom.xml
