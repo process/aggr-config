@@ -2,19 +2,13 @@
 version: 1
 ---
 
-# Fork this repository and edit it as you see fit.
-# Then, head to https://aggr.md/@[username] to see your aggregation.
+# You are currently looking at an Aggr configuration file.
+# To learn more about Aggr, visit: https://aggr.md
 
-# This file demonstrates the possibilities Aggr offers.
-# It is actually being rendered at https://aggr.md/@aggr
+# Aggr is able to do RSS/Atom feeds discovery:
+- https://www.ted.com
+- https://www.youtube.com/user/GoogleTechTalks
 
-# The top structure of this file is a list of strings representing all the sources you want to subscribe to.
-# The sources can be:
-
-# 1) Arbitrary websites, in which case an RSS/Atom feed is being looked for:
-- https://github.com/aggr-io/aggr-config
-
-# 2) Specific RSS/ATOM feeds, in which case the automatic discovery is bypassed:
-- https://github.com/aggr-io/docs/commits/main.atom
-
-# Have a look to https://github.com/aymericbeaumet/aggr-config for a down to earth example.
+# Aggr also support RSS/Atom feeds URLs:
+- https://martinfowler.com/feed.atom
+- https://xkcd.com/atom.xml
