@@ -7,9 +7,13 @@ version: 1
 # To start using Aggr, fork this repository and head to https://aggr.md/@[handle]
 
 # Aggr is able to do automatic feeds discovery:
-- https://www.ted.com
-- https://www.youtube.com/user/GoogleTechTalks
+#- https://www.ted.com
+#- https://www.youtube.com/user/GoogleTechTalks
 
 # Aggr also support direct feeds URLs:
-- https://martinfowler.com/feed.atom
-- https://xkcd.com/atom.xml
+#- https://martinfowler.com/feed.atom
+#- https://xkcd.com/atom.xml
+
+- https://languagelog.ldc.upenn.edu/nll/?feed=atom
+- https://crookedtimber.org/feed/
+- https://www.scottaaronson.com/blog/?feed=rss2
