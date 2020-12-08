@@ -17,3 +17,6 @@ version: 1
 - https://languagelog.ldc.upenn.edu/nll/?feed=atom
 - https://crookedtimber.org/feed/
 - https://www.scottaaronson.com/blog/?feed=rss2
+
+- https://hnrss.org/bestcomments
+- https://hnrss.org/newest?points=250
